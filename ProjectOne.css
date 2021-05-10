@@ -1,0 +1,71 @@
+html {
+  font-family: Copperplate, Papyrus, 'Lucida Sans Typewriter', 'Arial', sans-serif;
+}
+
+img {
+  width: 20%;
+  height: auto;
+  border-radius: 50%;
+}
+
+body {
+  background-color: whitesmoke;
+  text-align: center;  
+  font-size: 20px;
+}
+
+h1 {
+  background-color: rgba(203, 201, 233, 0.836);
+  font-size: 80px;
+  color: rgb(17, 144, 248) ;
+  -webkit-text-stroke: 1px white;
+  text-shadow: 2px 2px 7px rgba(90, 163, 212, 0.884);
+  
+}
+
+#About {
+  font-size: 35px;
+  color: darkmagenta;
+  text-decoration: underline;
+}
+
+p {
+  background-color: antiquewhite;
+}
+
+#About,
+#Goals,
+#TimeLine,
+#how
+ {
+  text-decoration: underline;
+  color: darkmagenta;
+}
+
+.icecream {
+  width: 40%;
+  height: auto;
+}
+
+h3 {
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 25px;
+
+}
+
+.THead {
+  font-size: 33px;
+  color: darkmagenta;
+  text-decoration: underline;
+}
+
+.Center {
+  list-style-position: inside;
+}
+
+.firstletter{
+  font-size: 5rem;
+  color: #10b0d8;
+  line-height: .87;
+}
